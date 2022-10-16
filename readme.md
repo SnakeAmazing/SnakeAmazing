@@ -8,6 +8,6 @@
 ## Skills
 
 ## Contact with me
-<div align="center">
+<div>
 - Discord: Snake#8888
 </div>
