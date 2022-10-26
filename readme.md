@@ -3,7 +3,7 @@
 
 - Java, Python, C++ developer.
 - CEO of Obsilion Network 
-- Focusing on learning C++
+- Focusing on learning C++ and C
 
 ## Skills
 
