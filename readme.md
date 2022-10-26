@@ -1,5 +1,5 @@
 <h1 align="center"> SnakeAmazing </h1>
-<h3 align="center">Programming as a passion</h3>
+<h3 align="center"><i>programming as a passion</i></h3>
 
 - Java, Python, C++ developer.
 - CEO of Obsilion Network 
