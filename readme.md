@@ -7,8 +7,8 @@
 
 ## Skills
 
-![stats](https://github-readme-stats.vercel.app/api?username=Espryth&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espryth&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=SnakeAmazing&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnakeAmazing&layout=compact)
 
 ## Contact with me
 <div>
