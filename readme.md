@@ -7,5 +7,5 @@
 
 ## Contact with me
 <div>
-- Discord: Snake#8888
+- Discord: snakeamazing
 </div>
